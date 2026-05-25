@@ -98,7 +98,9 @@ Plan my LinkedIn content for the next 7 days using the 4-3-2-1 system. 4 posts (
 
 ## License
 
-MIT — use, modify, ship freely.
+CC BY-NC-SA 4.0 — free for personal and educational use. You can share, adapt, and build on it. You cannot resell it or package it inside a paid product without permission.
+
+Full license: see `LICENSE` file or [creativecommons.org/licenses/by-nc-sa/4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Credit
 
